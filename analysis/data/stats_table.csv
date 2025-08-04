@@ -1,0 +1,13 @@
+Column,Drift (per hour)
+field.IMU.angular_velocity.x,0.00011999274909920602
+field.IMU.angular_velocity.y,-4.445940754414864e-05
+field.IMU.angular_velocity.z,1.2036357603264857e-05
+field.IMU.linear_acceleration.x,-0.002970782100205687
+field.IMU.linear_acceleration.y,0.03868058112365265
+field.IMU.linear_acceleration.z,0.0036711287683787283
+field.MagField.magnetic_field.x,0.0008707900367410298
+field.MagField.magnetic_field.y,0.00023975702565789755
+field.MagField.magnetic_field.z,-0.006146848788801664
+roll,-0.003869132257924469
+pitch,-0.0003462959696182251
+yaw,0.006993723517544449
